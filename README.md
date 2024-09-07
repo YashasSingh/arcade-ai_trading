@@ -1,5 +1,7 @@
 
 # TraderBot
+![Screen Recording 2024-08-24 213823](https://github.com/user-attachments/assets/c12868f6-2b8d-45a2-982a-ea58f3bb91a7)
+
 
 ## Overview
 Build a bot to trade based on live news sentiment.
